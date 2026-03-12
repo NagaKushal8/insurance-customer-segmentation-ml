@@ -1,5 +1,8 @@
 # Insurance Customer Segmentation
 
+<img width="1536" height="885" alt="ChatGPT Image Mar 11, 2026, 11_48_17 PM" src="https://github.com/user-attachments/assets/722d18e1-a643-4b98-8e69-b88168e57be0" />
+
+
 ## Overview
 
 Insurance customers aren't all the same. They differ in age, income, risk, and what they actually need. This project analyzes 10,000+ real customer records and uses machine learning to automatically group them into 6 distinct profiles. The result is a clear, data-backed picture of who the customers are, with actions like:
