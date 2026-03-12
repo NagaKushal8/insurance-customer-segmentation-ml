@@ -41,8 +41,17 @@ Premiums reflect annual figures for 2016. Negative premiums may appear where pol
 | `Life` | Life insurance premium (euros) |
 | `Work Compensation` | Work compensation insurance premium (euros) |
 
-> **Customer Lifetime Value** = (Annual Profit from the Customer) x (Number of Years as a Customer) - (Acquisition Cost)
+> **Total Premium** = Motor + Household + Health + Life + Work Compensation
 
+> **Commitment** = Annual Salary / Total Premium
+
+> **Profit Percent** = ((Total Premiums - Claim Amount) / Claim Amount) x 100
+
+> **Retention Cost** = (Profit x Number of Years as Customer) - CMV
+
+> **Loss** = 0 if no loss occurred, 1 if loss occurred
+
+> **Customer Lifetime Value** = (Annual Profit from Customer) x (Number of Years as Customer) - (Acquisition Cost)
 ---
 
 ## Tech Stack
